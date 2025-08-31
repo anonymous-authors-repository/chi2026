@@ -1,0 +1,49 @@
+Group,Gesture,Accuracy,Correct,Incorrect
+Human-NSTR,Increase volume,0.5643564356435643,57,44
+Human-NSTR,Decrease volume,0.8725490196078431,89,13
+Human-NSTR,Mute microphone,0.5058823529411764,43,42
+Human-NSTR,Unmute microphone,0.23,23,77
+Human-NSTR,Turn off camera,0.2,20,80
+Human-NSTR,Turn on camera,0.2871287128712871,29,72
+Human-NSTR,Ask for a question,0.9803921568627451,100,2
+Human-NSTR,End call,0.6464646464646465,64,35
+GPT4o-NSTR,Increase volume,0.14705882352941177,15,87
+GPT4o-NSTR,Decrease volume,0.1568627450980392,16,86
+GPT4o-NSTR,Mute microphone,0.29411764705882354,30,72
+GPT4o-NSTR,Unmute microphone,0.09900990099009901,10,91
+GPT4o-NSTR,Turn off camera,0.14705882352941177,15,87
+GPT4o-NSTR,Turn on camera,0.06862745098039216,7,95
+GPT4o-NSTR,Ask for a question,0.8137254901960784,83,19
+GPT4o-NSTR,End call,0.5,51,51
+GPT5-NSTR,Increase volume,0.13725490196078433,14,88
+GPT5-NSTR,Decrease volume,0.11764705882352941,12,90
+GPT5-NSTR,Mute microphone,0.28431372549019607,29,73
+GPT5-NSTR,Unmute microphone,0.12745098039215685,13,89
+GPT5-NSTR,Turn off camera,0.09803921568627451,10,92
+GPT5-NSTR,Turn on camera,0.058823529411764705,6,96
+GPT5-NSTR,Ask for a question,0.8235294117647058,84,18
+GPT5-NSTR,End call,0.38235294117647056,39,63
+Gemini-NSTR,Increase volume,0.19607843137254902,20,82
+Gemini-NSTR,Decrease volume,0.13725490196078433,14,88
+Gemini-NSTR,Mute microphone,0.35353535353535354,35,64
+Gemini-NSTR,Unmute microphone,0.14285714285714285,14,84
+Gemini-NSTR,Turn off camera,0.24,24,76
+Gemini-NSTR,Turn on camera,0.09,9,91
+Gemini-NSTR,Ask for a question,0.7352941176470589,75,27
+Gemini-NSTR,End call,0.31,31,69
+Sonnet-NSTR,Increase volume,0.19607843137254902,20,82
+Sonnet-NSTR,Decrease volume,0.0392156862745098,4,98
+Sonnet-NSTR,Mute microphone,0.14432989690721648,14,83
+Sonnet-NSTR,Unmute microphone,0.01,1,99
+Sonnet-NSTR,Turn off camera,0.13725490196078433,14,88
+Sonnet-NSTR,Turn on camera,0.04950495049504951,5,96
+Sonnet-NSTR,Ask for a question,0.7722772277227723,78,23
+Sonnet-NSTR,End call,0.29,29,71
+Grok-NSTR,Increase volume,0.06862745098039216,7,95
+Grok-NSTR,Decrease volume,0.0594059405940594,6,95
+Grok-NSTR,Mute microphone,0.4117647058823529,42,60
+Grok-NSTR,Unmute microphone,0.0,0,102
+Grok-NSTR,Turn off camera,0.08823529411764706,9,93
+Grok-NSTR,Turn on camera,0.029411764705882353,3,99
+Grok-NSTR,Ask for a question,0.7920792079207921,80,21
+Grok-NSTR,End call,0.4,40,60

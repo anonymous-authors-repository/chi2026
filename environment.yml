@@ -1,0 +1,8 @@
+name: chi2026
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.10.18
+  - poetry=2.1.3

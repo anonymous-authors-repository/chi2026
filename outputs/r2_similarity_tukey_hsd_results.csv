@@ -1,0 +1,11 @@
+group1,group2,meandiff,p-adj,lower,upper,reject
+GPT4o-STR,GPT5-STR,-0.0293,0.0,-0.0477,-0.0109,True
+GPT4o-STR,Gemini-STR,0.0372,0.0,0.019,0.0554,True
+GPT4o-STR,Sonnet-STR,0.0151,0.0111,-0.0031,0.0333,False
+GPT4o-STR,Grok-STR,-0.0785,0.0,-0.0967,-0.0604,True
+GPT5-STR,Gemini-STR,0.0665,0.0,0.0481,0.0849,True
+GPT5-STR,Sonnet-STR,0.0444,0.0,0.026,0.0628,True
+GPT5-STR,Grok-STR,-0.0492,0.0,-0.0676,-0.0308,True
+Gemini-STR,Sonnet-STR,-0.0221,0.0,-0.0403,-0.0039,True
+Gemini-STR,Grok-STR,-0.1158,0.0,-0.1339,-0.0976,True
+Sonnet-STR,Grok-STR,-0.0937,0.0,-0.1118,-0.0755,True

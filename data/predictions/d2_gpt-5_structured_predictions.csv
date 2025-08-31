@@ -1,0 +1,103 @@
+id_video,c1_command,c2_command,c3_command,c4_command,c5_command,c6_command,c7_command,c8_command
+p_000,Ask for a question,Ask for a question,Turn on camera,Ask for a question,Ask for a question,Ask for a question,Ask for a question,Ask for a question
+p_001,Increase volume,Ask for a question,Increase volume,No command,Decrease volume,Ask for a question,Ask for a question,End call
+p_002,Ask for a question,Turn off camera,Increase volume,Ask for a question,Ask for a question,Unmute microphone,Ask for a question,Increase volume
+p_003,Mute microphone,Decrease volume,Mute microphone,End call,Ask for a question,Ask for a question,Ask for a question,End call
+p_004,Decrease volume,Increase volume,Ask for a question,Mute microphone,End call,Ask for a question,Ask for a question,Ask for a question
+p_005,Increase volume,Ask for a question,Ask for a question,Ask for a question,End call,Ask for a question,Ask for a question,Ask for a question
+p_006,Ask for a question,Increase volume,End call,Ask for a question,Ask for a question,Ask for a question,Ask for a question,End call
+p_007,Increase volume,Ask for a question,End call,No command,Decrease volume,Ask for a question,Ask for a question,Increase volume
+p_008,Decrease volume,Increase volume,Ask for a question,Ask for a question,Ask for a question,Ask for a question,Ask for a question,End call
+p_009,,Decrease volume,Ask for a question,Ask for a question,Decrease volume,Increase volume,Ask for a question,Decrease volume
+p_010,Ask for a question,Ask for a question,Mute microphone,Unmute microphone,Ask for a question,Turn on camera,Decrease volume,Ask for a question
+p_011,Ask for a question,Increase volume,Ask for a question,Ask for a question,Ask for a question,Ask for a question,Ask for a question,Ask for a question
+p_012,Increase volume,Decrease volume,Mute microphone,,Ask for a question,,Ask for a question,End call
+p_013,Ask for a question,Ask for a question,Mute microphone,,Ask for a question,Increase volume,Ask for a question,End call
+p_014,Increase volume,Decrease volume,Unmute microphone,,End call,Ask for a question,Ask for a question,Decrease volume
+p_015,Ask for a question,Ask for a question,Ask for a question,Ask for a question,Ask for a question,End call,Ask for a question,Ask for a question
+p_016,Ask for a question,End call,Mute microphone,Ask for a question,Ask for a question,Ask for a question,Ask for a question,End call
+p_017,Ask for a question,End call,Ask for a question,Ask for a question,Decrease volume,Increase volume,Ask for a question,Ask for a question
+p_018,End call,Ask for a question,Mute microphone,Increase volume,Turn off camera,Turn off camera,Ask for a question,End call
+p_019,Ask for a question,Ask for a question,Mute microphone,Turn off camera,Increase volume,Ask for a question,Ask for a question,Decrease volume
+p_020,Ask for a question,Ask for a question,Decrease volume,Ask for a question,Decrease volume,Turn on camera,Ask for a question,End call
+p_021,Increase volume,Turn off camera,Mute microphone,Ask for a question,Ask for a question,Unmute microphone,Ask for a question,Ask for a question
+p_022,Decrease volume,Ask for a question,Mute microphone,No command,Turn on camera,Ask for a question,Ask for a question,Ask for a question
+p_023,Ask for a question,Decrease volume,Mute microphone,Unmute microphone,Ask for a question,,Ask for a question,Decrease volume
+p_024,Ask for a question,Ask for a question,Decrease volume,,Decrease volume,Ask for a question,No command,End call
+p_025,Ask for a question,,Mute microphone,,Ask for a question,Increase volume,Ask for a question,Decrease volume
+p_026,Ask for a question,Ask for a question,Decrease volume,Ask for a question,Increase volume,Mute microphone,Ask for a question,Ask for a question
+p_027,Decrease volume,Ask for a question,Ask for a question,Ask for a question,Turn off camera,Turn off camera,Decrease volume,Increase volume
+p_028,Ask for a question,Ask for a question,Increase volume,End call,,Ask for a question,Increase volume,Ask for a question
+p_029,Ask for a question,Increase volume,Ask for a question,End call,Ask for a question,End call,Ask for a question,Ask for a question
+p_030,Decrease volume,Decrease volume,Ask for a question,Turn on camera,Mute microphone,Unmute microphone,Ask for a question,Mute microphone
+p_031,Unmute microphone,Ask for a question,No command,Decrease volume,Ask for a question,Ask for a question,Ask for a question,Ask for a question
+p_032,Increase volume,Decrease volume,Mute microphone,End call,Ask for a question,Ask for a question,Ask for a question,End call
+p_033,Ask for a question,Decrease volume,Ask for a question,Ask for a question,Unmute microphone,,Ask for a question,
+p_034,Ask for a question,Ask for a question,Unmute microphone,Decrease volume,Ask for a question,Ask for a question,Ask for a question,Ask for a question
+p_035,Decrease volume,Ask for a question,Ask for a question,Ask for a question,Turn on camera,,Ask for a question,Decrease volume
+p_036,Ask for a question,Ask for a question,Increase volume,Ask for a question,Decrease volume,Ask for a question,Ask for a question,Ask for a question
+p_037,,Ask for a question,Mute microphone,Ask for a question,End call,Increase volume,Ask for a question,Ask for a question
+p_038,No command,No command,No command,Ask for a question,Ask for a question,Ask for a question,Ask for a question,
+p_039,Increase volume,Ask for a question,No command,,No command,Ask for a question,Ask for a question,Ask for a question
+p_040,Ask for a question,Ask for a question,Increase volume,Increase volume,Ask for a question,,Ask for a question,Ask for a question
+p_041,Ask for a question,Ask for a question,Mute microphone,Decrease volume,Turn off camera,Turn off camera,Ask for a question,Decrease volume
+p_042,Ask for a question,Ask for a question,Increase volume,No command,Turn off camera,No command,,Increase volume
+p_043,Ask for a question,Increase volume,Mute microphone,No command,Turn off camera,Ask for a question,Increase volume,Mute microphone
+p_044,Ask for a question,Decrease volume,Ask for a question,Ask for a question,Ask for a question,Ask for a question,Decrease volume,
+p_045,Decrease volume,Ask for a question,Mute microphone,Unmute microphone,Turn off camera,Ask for a question,Ask for a question,End call
+p_046,Ask for a question,Ask for a question,Decrease volume,Ask for a question,End call,Ask for a question,Ask for a question,End call
+p_047,Ask for a question,End call,Ask for a question,Mute microphone,Ask for a question,Decrease volume,Ask for a question,End call
+p_048,Unmute microphone,Ask for a question,Increase volume,,Turn off camera,Ask for a question,Ask for a question,Ask for a question
+p_049,Increase volume,Increase volume,Mute microphone,Increase volume,End call,Ask for a question,Ask for a question,End call
+p_050,Increase volume,Ask for a question,Unmute microphone,Ask for a question,Decrease volume,Ask for a question,Ask for a question,End call
+p_051,Ask for a question,Decrease volume,Mute microphone,Mute microphone,End call,End call,Ask for a question,Decrease volume
+p_052,Increase volume,Ask for a question,Mute microphone,Increase volume,Ask for a question,End call,Ask for a question,Ask for a question
+p_053,Increase volume,,Ask for a question,End call,Turn on camera,Increase volume,Ask for a question,
+p_054,Ask for a question,Ask for a question,Mute microphone,End call,End call,Ask for a question,Ask for a question,Ask for a question
+p_055,Ask for a question,Decrease volume,Unmute microphone,Unmute microphone,End call,Ask for a question,Ask for a question,Ask for a question
+p_056,Ask for a question,Decrease volume,Mute microphone,Mute microphone,Decrease volume,Ask for a question,Ask for a question,End call
+p_057,Mute microphone,Mute microphone,Mute microphone,Mute microphone,Ask for a question,Ask for a question,Ask for a question,Mute microphone
+p_058,Decrease volume,Decrease volume,Ask for a question,Ask for a question,Ask for a question,Turn off camera,Decrease volume,End call
+p_059,Increase volume,Ask for a question,Decrease volume,Increase volume,Ask for a question,Ask for a question,Ask for a question,Ask for a question
+p_060,Ask for a question,Ask for a question,Ask for a question,Ask for a question,Decrease volume,Ask for a question,Ask for a question,Turn off camera
+p_061,Ask for a question,Decrease volume,Mute microphone,Ask for a question,Ask for a question,Ask for a question,Ask for a question,End call
+p_062,Ask for a question,Increase volume,Ask for a question,End call,Ask for a question,Turn off camera,Ask for a question,Ask for a question
+p_063,Increase volume,,Increase volume,Ask for a question,Ask for a question,Mute microphone,Ask for a question,End call
+p_064,Increase volume,Ask for a question,Ask for a question,,Ask for a question,Ask for a question,Ask for a question,Ask for a question
+p_065,Increase volume,Ask for a question,Mute microphone,,Turn off camera,,Ask for a question,Ask for a question
+p_066,Increase volume,Ask for a question,Ask for a question,Increase volume,Ask for a question,Ask for a question,Ask for a question,Ask for a question
+p_067,Ask for a question,Ask for a question,Ask for a question,End call,Ask for a question,Ask for a question,Ask for a question,Increase volume
+p_068,Ask for a question,Ask for a question,Mute microphone,Turn on camera,Mute microphone,Unmute microphone,Ask for a question,Ask for a question
+p_069,Ask for a question,Ask for a question,Increase volume,Increase volume,Ask for a question,Ask for a question,Increase volume,Increase volume
+p_070,Increase volume,Increase volume,End call,Turn on camera,Ask for a question,Ask for a question,Ask for a question,Decrease volume
+p_071,Ask for a question,Ask for a question,Turn on camera,Increase volume,Ask for a question,Ask for a question,Ask for a question,Ask for a question
+p_072,Turn on camera,Decrease volume,Mute microphone,Ask for a question,Increase volume,Turn on camera,Ask for a question,Mute microphone
+p_073,Ask for a question,Ask for a question,Increase volume,Unmute microphone,Ask for a question,Ask for a question,Mute microphone,Ask for a question
+p_074,Ask for a question,Ask for a question,Mute microphone,Ask for a question,Decrease volume,Ask for a question,End call,Ask for a question
+p_075,Increase volume,Decrease volume,Mute microphone,Increase volume,Ask for a question,Turn on camera,Ask for a question,Increase volume
+p_076,Increase volume,Decrease volume,Ask for a question,,Turn off camera,Turn off camera,Decrease volume,Turn on camera
+p_077,Unmute microphone,Increase volume,,,End call,Unmute microphone,Ask for a question,End call
+p_078,Ask for a question,Ask for a question,Mute microphone,Mute microphone,Ask for a question,Ask for a question,Ask for a question,Increase volume
+p_079,Increase volume,End call,Decrease volume,Ask for a question,Ask for a question,Ask for a question,Ask for a question,End call
+p_080,Mute microphone,Decrease volume,Ask for a question,Ask for a question,Mute microphone,Ask for a question,Ask for a question,Ask for a question
+p_081,Decrease volume,Decrease volume,Mute microphone,,End call,Ask for a question,Ask for a question,Ask for a question
+p_082,,Ask for a question,Ask for a question,Ask for a question,Ask for a question,Ask for a question,Ask for a question,Unmute microphone
+p_083,Ask for a question,Ask for a question,End call,Unmute microphone,Ask for a question,Ask for a question,Ask for a question,Ask for a question
+p_084,Ask for a question,Ask for a question,Mute microphone,Increase volume,Decrease volume,Ask for a question,Ask for a question,Ask for a question
+p_085,Ask for a question,Ask for a question,Decrease volume,Ask for a question,Ask for a question,Decrease volume,Ask for a question,Ask for a question
+p_086,Ask for a question,Ask for a question,Decrease volume,,Increase volume,Ask for a question,Ask for a question,Ask for a question
+p_087,End call,Turn on camera,Ask for a question,Mute microphone,Ask for a question,Decrease volume,Ask for a question,Ask for a question
+p_088,Ask for a question,Ask for a question,Ask for a question,Ask for a question,Ask for a question,Ask for a question,Ask for a question,Ask for a question
+p_089,Ask for a question,Ask for a question,Ask for a question,Increase volume,Turn off camera,Mute microphone,Decrease volume,End call
+p_090,Ask for a question,Decrease volume,Ask for a question,Increase volume,Ask for a question,Ask for a question,Ask for a question,Ask for a question
+p_091,Increase volume,Decrease volume,Ask for a question,Decrease volume,,,Ask for a question,Ask for a question
+p_092,Mute microphone,Decrease volume,Unmute microphone,,Decrease volume,Turn off camera,Ask for a question,End call
+p_093,Ask for a question,Decrease volume,,Unmute microphone,End call,Ask for a question,Ask for a question,Ask for a question
+p_094,Ask for a question,Ask for a question,Mute microphone,Unmute microphone,End call,,Ask for a question,End call
+p_095,Increase volume,,Mute microphone,Mute microphone,Ask for a question,Turn off camera,End call,Decrease volume
+p_096,Ask for a question,Decrease volume,Unmute microphone,No command,Ask for a question,End call,Ask for a question,End call
+p_097,Increase volume,Mute microphone,Mute microphone,Increase volume,Ask for a question,Ask for a question,Ask for a question,Ask for a question
+p_098,Ask for a question,Increase volume,Mute microphone,No command,Turn off camera,Turn on camera,Ask for a question,Increase volume
+p_099,Ask for a question,Ask for a question,Mute microphone,,Ask for a question,Ask for a question,Ask for a question,End call
+p_100,Ask for a question,Ask for a question,Ask for a question,Ask for a question,End call,Ask for a question,Ask for a question,End call
+p_101,Ask for a question,Ask for a question,Ask for a question,Mute microphone,Decrease volume,Ask for a question,Ask for a question,Ask for a question
